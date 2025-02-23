@@ -218,10 +218,9 @@ Utilizarea ExKMC a permis nu doar gruparea joburilor în funcție de asemănări
 ## VI. Software utilizat în proiect
 1. **Python:** pentru curățarea și prelucrarea datelor (`pandas`, `numpy`).  
 2. **Altair AI Studio:** pentru pregătirea datelor, clasificare și clustering.  
-3. **RapidMiner:** pentru procese automate de curățare și modelare.  
-4. **Power BI:** pentru vizualizarea datelor și analiza interactivă.  
+3. **Power BI:** pentru vizualizarea datelor și analiza interactivă.  
 
 
 ---
 
-Acest proiect demonstrează cum analiza avansată a datelor poate sprijini deciziile de management în domeniul ocupării forței de muncă din New York City, oferind perspective atât pentru candidați, cât și pentru angajatori.
+Acest proiect demonstrează cum analiza avansată a datelor poate sprijini deciziile de management în domeniul ocupării forței de muncă, oferind perspective atât pentru candidați, cât și pentru angajatori.
